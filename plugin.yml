@@ -1,0 +1,8 @@
+name: ForceChat
+main: com.bukkit.fc.ForceChat
+version: 1.0
+commands:
+    fc:
+        usage: /<command> <message> - ForceChat Menu.
+    force:
+        usage: /<command> <player> - Forces a message from the player.
